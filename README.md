@@ -12,7 +12,7 @@ Welcome to my collection of Linux scripts designed to automate common tasks and 
      sudo ./create_user.sh username password
      ```
      Replace `username` and `password` with the desired username and password for the new user.
-    - **Necessary Packages:**
+   - **Necessary Packages:**
      - `sudo` (should already be installed on most systems)
 
 ### ⭕ **Set Up Samba File Share**
