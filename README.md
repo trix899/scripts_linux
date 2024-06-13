@@ -1,3 +1,6 @@
 # scripts_linux
 
-  Scripts i use when on new installs.
+  Scripts i use for:
+   - new installs. 
+   - automating tasks or setups.
+
