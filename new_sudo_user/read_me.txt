@@ -8,7 +8,15 @@ user with a home directory and sudo access.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/trix899/scripts_linux
+   cd scripts_linux
 
-2.
+2. cd /new_sudo_user
+
+3. chmod +x create_user.sh (file is then executable) 
+
+4.sudo ./create_user.sh    #if another user
+  ./create_user.sh         #if you are root user
+
+5 Follow the steps to make a new user.
+
