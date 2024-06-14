@@ -1,5 +1,5 @@
 # Linux Scripts 
-
+  ![Wemos D1](pics/trixban.png)
 Welcome to my collection of Linux scripts designed to automate common tasks and setups.
 
 ## Scripts
